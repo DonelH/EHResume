@@ -15,7 +15,7 @@ The majority of the project is implemented as follows:
 - Serverless DynamoDB database to store the value of the views
 - API hosted over AWS API Gateway
 - Python Lambda function to connect the API and DynamoDB interaction
-- Terraform completed for the entire application starting from the artifacts for S3 and including all the steps above
+- Terraform completed for the entire application starting from the artifacts for S3 and including all the steps above. Found here: https://github.com/DonelH/CRC-Terraform/blob/main/main.tf
 - Code hosted over Github
 
 Remaining tasks are listed as follows per the CRC:
